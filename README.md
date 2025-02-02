@@ -1,6 +1,5 @@
 # Merkle Tree Implementation Using BLAKE3
-
-This project implements a **Merkle Tree** using the **BLAKE3 hashing algorithm** in Rust. The implementation allows users to generate a Merkle Tree from a set of data inputs, compute the Merkle root, and display it in a human-readable hexadecimal format.
+The implementation allows users to generate a Merkle Tree from a set of data inputs, compute the Merkle root, and display it in a human-readable hexadecimal format.
 
 ## Features
 
